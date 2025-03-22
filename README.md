@@ -69,12 +69,6 @@ Feel free to contribute by following these steps:
 4. Push to the branch (`git push origin feature-newFeature`)
 5. Create a Pull Request
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
-## 💬 Contact
-For any queries, contact:
-- **Your Name**: [your-email@example.com]
-- **GitHub**: [https://github.com/your-username]
 
 
